@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Theater/static/css/main.a7353174.css",
-    "main.js": "/Theater/static/js/main.006eca1e.js",
+    "main.css": "/Theater/static/css/main.f1ab98d0.css",
+    "main.js": "/Theater/static/js/main.2f025b6c.js",
     "static/js/787.9852bfd5.chunk.js": "/Theater/static/js/787.9852bfd5.chunk.js",
     "static/media/trailer.mp4": "/Theater/static/media/trailer.eadd977ab799ca5724de.mp4",
     "static/media/All thats left to me - Odysseus Telemachus 02.jpg": "/Theater/static/media/All thats left to me - Odysseus Telemachus 02.f7be97b199f362adbb9d.jpg",
@@ -16,12 +16,12 @@
     "static/media/bootstrap-icons.woff2?": "/Theater/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
     "static/media/Khebrat-Musamim-New.ttf": "/Theater/static/media/Khebrat-Musamim-New.00e0b8c303b7fceb1cc8.ttf",
     "index.html": "/Theater/index.html",
-    "main.a7353174.css.map": "/Theater/static/css/main.a7353174.css.map",
-    "main.006eca1e.js.map": "/Theater/static/js/main.006eca1e.js.map",
+    "main.f1ab98d0.css.map": "/Theater/static/css/main.f1ab98d0.css.map",
+    "main.2f025b6c.js.map": "/Theater/static/js/main.2f025b6c.js.map",
     "787.9852bfd5.chunk.js.map": "/Theater/static/js/787.9852bfd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7353174.css",
-    "static/js/main.006eca1e.js"
+    "static/css/main.f1ab98d0.css",
+    "static/js/main.2f025b6c.js"
   ]
 }
