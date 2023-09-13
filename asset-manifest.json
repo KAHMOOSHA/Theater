@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6d3dfda0.css",
-    "main.js": "/react-gh-pages/static/js/main.90880902.js",
-    "static/js/787.9852bfd5.chunk.js": "/react-gh-pages/static/js/787.9852bfd5.chunk.js",
-    "static/media/trailer.mp4": "/react-gh-pages/static/media/trailer.eadd977ab799ca5724de.mp4",
-    "static/media/All thats left to me - Penelope Telemachus.JPG": "/react-gh-pages/static/media/All thats left to me - Penelope Telemachus.fc7a797785496e5203a5.JPG",
-    "static/media/All thats left to me - Penelope Odysseus 01.JPG": "/react-gh-pages/static/media/All thats left to me - Penelope Odysseus 01.9d14ee24eb075f856e22.JPG",
-    "static/media/All thats left to me - Odysseus Telemachus 02.jpg": "/react-gh-pages/static/media/All thats left to me - Odysseus Telemachus 02.f7be97b199f362adbb9d.jpg",
-    "static/media/jhunfkbhr-01.png": "/react-gh-pages/static/media/jhunfkbhr-01.8132de9b2043b027a66f.png",
-    "static/media/birds.png": "/react-gh-pages/static/media/birds.400831f544d9f01c65f6.png",
-    "static/media/bootstrap-icons.woff?": "/react-gh-pages/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
-    "static/media/2C1A4231.JPG": "/react-gh-pages/static/media/2C1A4231.6434fff9af622415f5ae.JPG",
-    "static/media/bootstrap-icons.woff2?": "/react-gh-pages/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
-    "static/media/Khebrat-Musamim-New.ttf": "/react-gh-pages/static/media/Khebrat-Musamim-New.00e0b8c303b7fceb1cc8.ttf",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6d3dfda0.css.map": "/react-gh-pages/static/css/main.6d3dfda0.css.map",
-    "main.90880902.js.map": "/react-gh-pages/static/js/main.90880902.js.map",
-    "787.9852bfd5.chunk.js.map": "/react-gh-pages/static/js/787.9852bfd5.chunk.js.map"
+    "main.css": "/Theater/static/css/main.a7353174.css",
+    "main.js": "/Theater/static/js/main.8339fdaf.js",
+    "static/js/787.9852bfd5.chunk.js": "/Theater/static/js/787.9852bfd5.chunk.js",
+    "static/media/trailer.mp4": "/Theater/static/media/trailer.eadd977ab799ca5724de.mp4",
+    "static/media/All thats left to me - Penelope Telemachus.JPG": "/Theater/static/media/All thats left to me - Penelope Telemachus.fc7a797785496e5203a5.JPG",
+    "static/media/All thats left to me - Penelope Odysseus 01.JPG": "/Theater/static/media/All thats left to me - Penelope Odysseus 01.9d14ee24eb075f856e22.JPG",
+    "static/media/All thats left to me - Odysseus Telemachus 02.jpg": "/Theater/static/media/All thats left to me - Odysseus Telemachus 02.f7be97b199f362adbb9d.jpg",
+    "static/media/jhunfkbhr-01.png": "/Theater/static/media/jhunfkbhr-01.8132de9b2043b027a66f.png",
+    "static/media/birds.png": "/Theater/static/media/birds.400831f544d9f01c65f6.png",
+    "static/media/bootstrap-icons.woff?": "/Theater/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/2C1A4231.JPG": "/Theater/static/media/2C1A4231.6434fff9af622415f5ae.JPG",
+    "static/media/bootstrap-icons.woff2?": "/Theater/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/Khebrat-Musamim-New.ttf": "/Theater/static/media/Khebrat-Musamim-New.00e0b8c303b7fceb1cc8.ttf",
+    "index.html": "/Theater/index.html",
+    "main.a7353174.css.map": "/Theater/static/css/main.a7353174.css.map",
+    "main.8339fdaf.js.map": "/Theater/static/js/main.8339fdaf.js.map",
+    "787.9852bfd5.chunk.js.map": "/Theater/static/js/787.9852bfd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d3dfda0.css",
-    "static/js/main.90880902.js"
+    "static/css/main.a7353174.css",
+    "static/js/main.8339fdaf.js"
   ]
 }
