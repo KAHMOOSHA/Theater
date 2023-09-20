@@ -1,16 +1,7 @@
-import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 import "./navbar.css";
 const Navbar = () => {
-  // const [icon, setIcon] = useState("☲");
-  // const change = () => {
-  //   if (icon === "☲") {
-  //     setIcon("☵");
-  //   } else {
-  //     setIcon("☲");
-  //   }
-  // };
   return (
     <header className="nav__bar">
       <div className="logo">Theater </div>

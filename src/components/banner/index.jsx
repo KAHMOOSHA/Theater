@@ -2,7 +2,6 @@ import React from "react";
 import "./banner.css";
 import "bootstrap/dist/css/bootstrap.css";
 import Carousel from "react-bootstrap/Carousel";
-// import Spinner from "react-bootstrap/Spinner";
 import "bootstrap-icons/font/bootstrap-icons.css";
 
 import img1 from "../media/main1.jpg";
@@ -14,7 +13,7 @@ import img5 from "../media/main5.jpg";
 const Banner = () => {
   return (
     <div className="main__Banner">
-      <Carousel fade interval={5000}>
+      <Carousel fade interval={10000}>
         <Carousel.Item>
           <img src={img1} alt="" />
           <div className="overlay">

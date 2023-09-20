@@ -14,7 +14,7 @@ const Home = () => {
         style={{
           display: "flex",
           flexDirection: "column",
-          padding: "0 5%",
+          padding: "0 10%",
           gap: "2rem",
         }}
       >

@@ -4,7 +4,8 @@
 }
 
 .Img__holder {
-  padding: 5rem;
+  padding: 5%;
+  padding-top: 6rem;
   /* background-color: rgba(0, 0, 0, 0.432); */
 }
 .background {
@@ -26,6 +27,7 @@
   flex-wrap: wrap;
   margin-top: 5%;
 }
+
 .Img__holder h1 {
   padding: 0 2rem;
   color: #d2cdaa;
@@ -35,7 +37,7 @@
 }
 
 .item {
-  width: 30%;
+  width: 45%;
   border: 1px solid black;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px,
     rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
@@ -51,10 +53,18 @@
   border-radius: 10px;
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .item {
     width: 90%;
   }
-  
+  @media screen and (min-width: 900px) {
+    .item {
+      width: 60%;
+    }
+  }
 }
-  
+@media screen and (min-width: 1000px) {
+  .item {
+    width: 90%;
+  }
+} */

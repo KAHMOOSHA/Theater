@@ -8,7 +8,21 @@
   background-color: transparent;
   position: fixed;
   right: 0;
+  top: 0;
   z-index: 10;
+  overflow: scroll;
+}
+.scrolled {
+  background-color: #000;
+}
+.nav__bar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge add Firefox */
+.nav__bar {
+  -ms-overflow-style: none;
+  scrollbar-width: none; /* Firefox */
 }
 .nav__bar:hover {
   background-color: #000;
@@ -71,10 +85,10 @@
 }
 
 @media (max-width: 555px) {
-  .ss{
+  .ss {
     display: none;
   }
-  .nav__bar{
+  .nav__bar {
     left: 0;
     right: auto;
   }
