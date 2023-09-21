@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/theater/static/css/main.4b2c456d.css",
-    "main.js": "/theater/static/js/main.62396e9d.js",
+    "main.css": "/theater/static/css/main.0e657f0f.css",
+    "main.js": "/theater/static/js/main.c37bb073.js",
     "static/js/787.9852bfd5.chunk.js": "/theater/static/js/787.9852bfd5.chunk.js",
     "static/media/trailer.mp4": "/theater/static/media/trailer.eadd977ab799ca5724de.mp4",
-    "static/media/All thats left to me - Odysseus Telemachus 02.jpg": "/theater/static/media/All thats left to me - Odysseus Telemachus 02.f7be97b199f362adbb9d.jpg",
     "static/media/main5.jpg": "/theater/static/media/main5.684fa595dae104855cdf.jpg",
     "static/media/main2.jpg": "/theater/static/media/main2.1fb46735e707e3703880.jpg",
     "static/media/main4.jpg": "/theater/static/media/main4.3e79165bfb621fa4e566.jpg",
@@ -17,12 +16,12 @@
     "static/media/effect-main.png": "/theater/static/media/effect-main.5f21832fdc104e529fa8.png",
     "static/media/Khebrat-Musamim-New.ttf": "/theater/static/media/Khebrat-Musamim-New.00e0b8c303b7fceb1cc8.ttf",
     "index.html": "/theater/index.html",
-    "main.4b2c456d.css.map": "/theater/static/css/main.4b2c456d.css.map",
-    "main.62396e9d.js.map": "/theater/static/js/main.62396e9d.js.map",
+    "main.0e657f0f.css.map": "/theater/static/css/main.0e657f0f.css.map",
+    "main.c37bb073.js.map": "/theater/static/js/main.c37bb073.js.map",
     "787.9852bfd5.chunk.js.map": "/theater/static/js/787.9852bfd5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b2c456d.css",
-    "static/js/main.62396e9d.js"
+    "static/css/main.0e657f0f.css",
+    "static/js/main.c37bb073.js"
   ]
 }
